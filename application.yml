@@ -12,4 +12,4 @@ microservice:
 
 
 test:
-  input: 2
+  input: 50000
