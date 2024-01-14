@@ -8,3 +8,8 @@ microservice:
     endpoints:
       fetchOrderById:
         uri: http://RESTAURANT-SERVICE/restaurant/orders/status/
+
+
+
+test:
+  input: 2
