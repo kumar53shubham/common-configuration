@@ -2,3 +2,9 @@ eureka:
   client:
     service-url:
       defaultZone : http://localhost:8761/eureka/
+
+microservice: 
+  restaurant-service: 
+    endpoints:
+      fetchOrderById:
+        uri: http://RESTAURANT-SERVICE/restaurant/orders/status/
