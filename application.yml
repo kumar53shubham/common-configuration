@@ -17,4 +17,4 @@ test:
 
 logging:
   file:
-    name: G:\Electronic_Store\backend\javatechie\microservices\spring-cloud-gateway-jwt-security\app-logs-file\ecom-log
+    name: G:\Electronic_Store\backend\javatechie\microservices\spring-cloud-gateway-jwt-security\app-logs-file\ecom.log
